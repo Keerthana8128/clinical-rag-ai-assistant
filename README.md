@@ -3,13 +3,12 @@
 A healthcare-focused Generative AI application that enables users to upload clinical documents (PDFs) and ask context-aware questions using Retrieval-Augmented Generation (RAG).
 
 ## 🚀 Features
-- Upload and process clinical PDFs
-- Extract and chunk text from documents
-- Generate embeddings using OpenAI
-- Store vectors using FAISS
-- Retrieve relevant context
-- Generate accurate answers using LLM
-- Simple UI using Streamlit
+- RAG-based clinical question answering
+- Source-grounded responses with page references
+- Confidence scoring system
+- Answer evaluation framework
+- Query logging (CSV-based observability)
+- Latency tracking
 
 ## 🧠 Tech Stack
 - Python
